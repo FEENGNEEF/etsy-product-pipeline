@@ -1,0 +1,13 @@
+{
+  "default": {
+    "title": "{{nazev}} Digital Download - <<x>> Files",
+    "description": "Introducing {{nazev}}, a digital download bundle containing <<x>> files.\n\nThis is a public example template. Replace it with your own product description, license terms, delivery notes, printing instructions, and shop policies before using the uploader with a real Etsy shop.\n\nDelivery:\nAfter purchase, customers receive digital files through Etsy's download system.\n\nPrinting:\nColors may vary depending on display and printer settings.",
+    "tags": "{{nazev}}, digital download, printable art, wall art, instant download, creative assets",
+    "price": "5.99",
+    "taxonomy_id": "",
+    "who_made": "i_did",
+    "when_made": "made_to_order",
+    "is_supply": false,
+    "notes": "Supported placeholders: {{nazev}} = product/folder name, <<x>> = number of image/files detected for the listing."
+  }
+}

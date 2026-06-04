@@ -11,6 +11,19 @@ This project combines two related tools:
 It was designed for high-volume digital download workflows where product assets
 need to be prepared, packaged, reviewed, and uploaded consistently.
 
+## Typical workflow
+
+The project is split into two separate tools on purpose:
+
+1. Use `asset_pipeline` first to prepare product folders, rename files, generate
+   clean/watermarked outputs, and create ZIP packages.
+2. Review the prepared output locally.
+3. Use `listing_pipeline` after that to create Etsy draft listings from the
+   prepared product folders.
+
+The two steps are intentionally separated so asset preparation can be reviewed
+before anything is sent to Etsy.
+
 ## What it demonstrates
 
 - Python desktop application development.

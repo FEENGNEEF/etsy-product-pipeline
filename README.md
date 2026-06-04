@@ -56,7 +56,8 @@ Before using it, you must create your own configuration from the example files.
 
 This repository is shared as a portfolio/code sample. No open-source license is
 granted. You may read the code for review, but reuse, redistribution, or
-commercial use requires explicit permission from the author.
+commercial use requires explicit permission from the author. See `LICENSE` for
+details.
 
 ## Installation
 

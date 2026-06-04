@@ -52,6 +52,12 @@ paths.
 
 Before using it, you must create your own configuration from the example files.
 
+## License and usage
+
+This repository is shared as a portfolio/code sample. No open-source license is
+granted. You may read the code for review, but reuse, redistribution, or
+commercial use requires explicit permission from the author.
+
 ## Installation
 
 Use Python 3.10 or 3.11.
